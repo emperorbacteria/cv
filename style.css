@@ -8,6 +8,10 @@ html {
     padding-top: 4em;
 }
 
+body {
+    background-color: #fff6bb;
+}
+
 .portfolio{
     padding: 4em;
 }
